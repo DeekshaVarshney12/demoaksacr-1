@@ -11,10 +11,10 @@ resource "azurerm_container_registry" "ACR" {
 }
 
 resource "azurerm_kubernetes_cluster" "AKS" {
-  name                = "example-aks12324"
+  name                = "azurecluster234253"
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
-  dns_prefix          = "exampleaks123w"
+  dns_prefix          = "examplagsag123w"
 
   default_node_pool {
     name       = "default34"
