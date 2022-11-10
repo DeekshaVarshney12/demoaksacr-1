@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg" {
   name     = "acr-aksrg"
-  location = "East us2"
+  location = "West Europe"
 }
 
 resource "azurerm_container_registry" "ACR" {
