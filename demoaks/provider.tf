@@ -10,6 +10,6 @@ terraform {
     storage_account_name = "strogaer343"
     container_name       = "newcontainer"
     key                  = "prod.terraform.tfstate"
-    access_key = "ulKMQ35d7YipEVIwONoOYRv3d4DyG8kHuf1E5tMa4YOqnq4W1I7sgWJ623DZT22ClnEaTqd3e4Yu+AStNlQDzw=="
+    access_key = "k88bgwpiWQkeb5S9e4VpRQIL4cQSNj3OwlobHTBy7bOJlIxeY1J0cTq9HzJPD2lvpp/YP5Lh9Pe5+AStDsF7aA=="
   }
 }
